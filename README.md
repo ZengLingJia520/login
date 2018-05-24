@@ -1,5 +1,6 @@
 # 简介
-kao2+vue+mongodb实现的一个前后端分离的登陆注册
+kao2+vue+mongodb实现的一个前后端分离的登陆注册</br>
+欢迎喜欢前端的老铁们一起讨论，QQ：515264616
 # 技术运用
 vue-cli,kao2,mongoose,vuex,ElementUI,sha1(密码加密)，
 # 说明
